@@ -1,0 +1,62 @@
+
+Nombre de host:                            LAPTOP-2GPETLF8
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versi¢n del sistema operativo:             10.0.19042 N/D Compilaci¢n 19042
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              laurentxcalibur@gmail.com
+Organizaci¢n registrada:                   HP
+Id. del producto:                          00325-81460-83404-AAOEM
+Fecha de instalaci¢n original:             19/03/2021, 05:20:04 p. m.
+Tiempo de arranque del sistema:            11/07/2021, 11:00:23 p. m.
+Fabricante del sistema:                    HP
+Modelo el sistema:                         HP Pavilion Gaming Laptop 15-dk0xxx
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2400 Mhz
+Versi¢n del BIOS:                          Insyde F.12, 02/08/2019
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es-mx;Espa¤ol (M‚xico)
+Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
+Zona horaria:                              (UTC-06:00) Guadalajara, Ciudad de M‚xico, Monterrey
+Cantidad total de memoria f¡sica:          8,033 MB
+Memoria f¡sica disponible:                 2,990 MB
+Memoria virtual: tama¤o m ximo:            13,153 MB
+Memoria virtual: disponible:               5,492 MB
+Memoria virtual: en uso:                   7,661 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\LAPTOP-2GPETLF8
+Revisi¢n(es):                              6 revisi¢n(es) instaladas.
+                                           [01]: KB5003254
+                                           [02]: KB4562830
+                                           [03]: KB4580325
+                                           [04]: KB5001679
+                                           [05]: KB5004945
+                                           [06]: KB5003742
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek RTL8822BE 802.11ac PCIe Adapter
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.100.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.100.37
+                                                 [02]: fe80::c50f:a856:af9a:4658
+                                                 [03]: 2806:2f0:9161:2be8:21b7:1a21:938b:e22b
+                                                 [04]: 2806:2f0:9161:2be8:c50f:a856:af9a:4658
+                                           [02]: Realtek Gaming GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::3c76:f289:1092:d9f5
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
